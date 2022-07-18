@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "hockeyware",
+    "name": "HockeyWare",
+    "description": "1.0",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/Smokeybear12/HockeyWare",
+    "updateUrl": "",
+    "authorList": [
+      "Smokeybear12",
+      "hockeyl8"
+    ],
+    "credits": "",
+    "logoFile": "https://media.discordapp.net/attachments/983780147834519642/985291429070917652/75580512.jpeg",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

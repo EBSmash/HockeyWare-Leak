@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "org.steve.hockeyware.mixin",
+  "refmap": "mixins.hockey.refmap.json",
+  "minVersion": "0.7.4",
+  "mixins": [
+    "MixinAbstractClientPlayer",
+    "MixinEntityPlayerSP",
+    "MixinNetHandlerPlayClient",
+    "MixinShaderGroup",
+    "MixinWorldClient"
+  ]
+}
